@@ -1,3 +1,4 @@
+//http://www.erikschierboom.com/2016/09/02/ionic2-audio-recorder/
 import { MediaPlugin } from 'ionic-native';
 import { Injectable } from '@angular/core';
 
